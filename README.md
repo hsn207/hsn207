@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%" />
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Working" width="40%" />
+<img src="https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/images/hellocoders.gif?raw=true" alt="Hello Coders" width="60%" />
+<img src="https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/images/dev-working.gif?raw=true" alt="Working" width="40%" />
 
-# Hi there, I'm Hassan Mohamed 👋
+# Hi there, I'm Hassan Mohamed 👋  
 ### Front-End Web Developer | UI/UX Enthusiast
 
 </div>
@@ -21,40 +21,47 @@
 
 ## 🛠️ Tech Stack
 
-### Languages & Markup
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+### Languages & Markup  
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-20232a?style=flat&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+### Frameworks & Libraries  
+![React](https://img.shields.io/badge/-React-20232a?style=flat&logo=react&logoColor=61DAFB)  
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
-### Tools & Platforms
-![VS Code](https://img.shields.io/badge/-VSCode-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+### Tools & Platforms  
+![VS Code](https://img.shields.io/badge/-VSCode-0078D4?style=flat&logo=visual-studio-code&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="Hassan's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
 ## 📫 Contact Me
 
-- Email: **hsn0320339@gmail.com**
-- Telegram: [@hassan_frontend](https://t.me/yourusername)
-- Portfolio: *(Add your portfolio link here if you have one)*
+- 📧 Email: **hsn0320339@gmail.com**  
+- 💬 Telegram: [@hassan_frontend](https://t.me/hassan_frontend)  
+- 🌐 Portfolio: *(Add your portfolio link here)*
 
 ---
 
 <div align="center">
 
 _“Code. Design. Repeat.”_
+
+<br />
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" />
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" />
