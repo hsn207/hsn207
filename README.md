@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/images/hellocoders.gif?raw=true" alt="Hello Coders" width="60%" />
-<img src="https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/images/dev-working.gif?raw=true" alt="Working" width="40%" />
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%" />
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Working" width="40%" />
 
-# Hi there, I'm Hassan Mohamed 👋  
+# Hi there, I'm Hassan Mohamed 👋
 ### Front-End Web Developer | UI/UX Enthusiast
 
 </div>
@@ -42,9 +42,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="Hassan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="Hassan's GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
